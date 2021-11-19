@@ -1,11 +1,11 @@
 ---
-title: Autonlp Reuters Summarization
-emoji: 🤗
-colorFrom: red
-colorTo: gray
-sdk: gradio
-app_file: app.py
-pinned: false
+tags: autonlp
+language: en
+widget:
+- text: "I love AutoNLP 🤗"
+datasets:
+- mmcquade11/autonlp-data-reuters-summarization
+co2_eq_emissions: 286.4350821612984
 ---
 
 # Model Trained Using AutoNLP
